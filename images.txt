@@ -1,17 +1,1 @@
 infiniflow/ragflow
-
-infiniflow/infinity
-
- 
-
-elasticsearch
-
-mysql
-
-postgres
-
-redis
-
-valkey/valkey
-
-minio/minio
