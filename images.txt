@@ -1,1 +1,1 @@
-infiniflow/ragflow
+infiniflow/ragflow:v0.16.0
