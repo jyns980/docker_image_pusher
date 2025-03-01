@@ -1,9 +1,3 @@
-infiniflow/ragflow:v0.16.0
-
-infiniflow/infinity:v0.6.0-dev3
-
- 
-
 elasticsearch:8.11.3
 
 mysql:8.0.39
